@@ -83,6 +83,7 @@
 		["\"Let's get started!\"","\"你们这些家伙,快来帮我汉化！🍥🍥🍥\""],
 		["\"Add a repository to GitHub Desktop to start collaborating\"","\"添加一个存储以立即开始工作！🧭🧭🧭\""],
 		["\"Create a New Repository on your local drive…\"","\"创建一个新存储库到本地…\""],
+	    	["\"Create a tutorial repository…\"","\"创建教程存储库…\""],
 		["\"Clone a repository from the Internet…\"","\"从网络上克隆一个新存储库…\""],
 		["\"Add an Existing Repository from your local drive…\"","\"从本地添加一个已存在的存储库…\""],
 		["\"ProTip!\"\\),\" You can drag & drop an existing repository folder here to add it to Desktop\"","\"专业提示!\"),\" 您可以将现有版本库文件夹拖放至此，将其添加到程序\""],
